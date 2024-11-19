@@ -53,3 +53,7 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
+include 'spring-study'
+include 'spring-study'
+include 'spring-study'
+
